@@ -16,5 +16,5 @@ def main(folder_path):
         print("Answer:", answer)
 
 if __name__ == "__main__":
-    folder_path = "C:\\Users\\soham\\OneDrive\\Desktop\\AI\\Folder_path"
+    folder_path = "folder_path"
     main(folder_path)
