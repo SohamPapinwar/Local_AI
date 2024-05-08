@@ -9,3 +9,4 @@ Steps to USE :
   4]Open main.py and put folder path as path of "Folder_path".
   5]Make sure you have all these libraries installed " PyPDF2 pptx nltk transformers torch "
   6]You are ready.
+Try asking question like "What is a Operating System?"
